@@ -3,9 +3,11 @@ document.addEventListener("DOMContentLoaded", function () {
         { word: "apple", hint: "A popular fruit." },
         { word: "table", hint: "Furniture with four legs." },
         { word: "chair", hint: "You sit on it." },
+        { word: "sui", hint: "A coin with water drop as it logo"},
         { word: "lagos", hint: "City with the worst traffic in Nigeria" },
         { word: "ocean", hint: "A vast body of water." },
-        { word: "planet", hint: "Earth is one of them." }
+        { word: "nft", hint: "A digital Art" },
+        { word: "Abuja", hint: "A city of senators in Nigeria" }
     ];
 
     let currentWord = "";
